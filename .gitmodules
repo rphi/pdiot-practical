@@ -1,6 +1,6 @@
 [submodule "orient-android"]
 	path = orient-android
-	url = https://github.com/specknet/orient-android
+	url = https://github.com/rphi/orient-android.git
 [submodule "pdiot-data"]
 	path = pdiot-data
 	url = https://github.com/specknet/pdiot-data
